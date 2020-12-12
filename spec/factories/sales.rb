@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :sale do
-    item { nil }
-    purchaser { nil }
+    item
+    purchaser
   end
 end
