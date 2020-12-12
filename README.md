@@ -1,24 +1,8 @@
-# README
+# nuuvem-challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project for the challenge proposed by the company Nuuvem.
 
-Things you may want to cover:
+The project is about importing a company's sales from a text file (separated by tabs - [file](example_input.tab)).
 
-* Ruby version
+[About the challenge](about.md)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
