@@ -43,7 +43,11 @@ The project is prepared for the use of the docker and if you prefer or need it i
 ### Without using the <s> Docker </s>
 
  --> **Prerequisites**
+<<<<<<< HEAD
  - Ruby - 2.7.1
+=======
+ - Ruby - 2.7.2
+>>>>>>> feature/complete-readme
 
 - Rails - 6.0.3
 
