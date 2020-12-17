@@ -44,10 +44,8 @@ The project is prepared for the use of the docker and if you prefer or need it i
 
  --> **Prerequisites**
  - Ruby - 2.7.2
-
-- Rails - 6.0.3
-
-- PostgreSQL
+ - Rails - 6.0.3
+ - PostgreSQL
 
  -->   **Step by Step**
 1. Create the database
