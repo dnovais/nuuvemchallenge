@@ -14,8 +14,6 @@ RSpec.describe Sales::CalculateTotalService do
 
     before { sales }
 
-    it "description" do
-      is_expected.to be > 0
-    end
+    it { is_expected.to be > 0 }
   end
 end
