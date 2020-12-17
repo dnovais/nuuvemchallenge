@@ -87,9 +87,11 @@ Interpreting the sample file provided, I was able to analyze and gather the foll
 
 A purchaser can make multiple purchases of an item at a given merchant.
 
+![alt file example data](https://res.cloudinary.com/dp5pbmxdl/image/upload/v1608175017/Screen_Shot_2020-12-16_at_18.06.12_jsjafs.png)
+
 ### Modeling the database
 
-![alt Modeling the database](https://github.com/dnovais/qcxchallenge/raw/master/app/assets/images/der.png)
+![alt Modeling the database](https://res.cloudinary.com/dp5pbmxdl/image/upload/v1608175037/der_zpwz80.png)
 
 ## Next steps and improvements
 
